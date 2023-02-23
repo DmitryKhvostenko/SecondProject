@@ -1,0 +1,4 @@
+﻿Artem 8 6 11
+Dmitry 10 8 5
+Jon 3 5 6 7
+Alice 10 11 4 9 9 

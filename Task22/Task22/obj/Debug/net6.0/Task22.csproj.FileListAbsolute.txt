@@ -1,0 +1,15 @@
+C:\Users\Dima\Desktop\Учеба\ООП\Task22\Task22\bin\Debug\net6.0\Task22.exe
+C:\Users\Dima\Desktop\Учеба\ООП\Task22\Task22\bin\Debug\net6.0\Task22.deps.json
+C:\Users\Dima\Desktop\Учеба\ООП\Task22\Task22\bin\Debug\net6.0\Task22.runtimeconfig.json
+C:\Users\Dima\Desktop\Учеба\ООП\Task22\Task22\bin\Debug\net6.0\Task22.dll
+C:\Users\Dima\Desktop\Учеба\ООП\Task22\Task22\bin\Debug\net6.0\Task22.pdb
+C:\Users\Dima\Desktop\Учеба\ООП\Task22\Task22\obj\Debug\net6.0\Task22.csproj.AssemblyReference.cache
+C:\Users\Dima\Desktop\Учеба\ООП\Task22\Task22\obj\Debug\net6.0\Task22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\Desktop\Учеба\ООП\Task22\Task22\obj\Debug\net6.0\Task22.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\Учеба\ООП\Task22\Task22\obj\Debug\net6.0\Task22.AssemblyInfo.cs
+C:\Users\Dima\Desktop\Учеба\ООП\Task22\Task22\obj\Debug\net6.0\Task22.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\Учеба\ООП\Task22\Task22\obj\Debug\net6.0\Task22.dll
+C:\Users\Dima\Desktop\Учеба\ООП\Task22\Task22\obj\Debug\net6.0\refint\Task22.dll
+C:\Users\Dima\Desktop\Учеба\ООП\Task22\Task22\obj\Debug\net6.0\Task22.pdb
+C:\Users\Dima\Desktop\Учеба\ООП\Task22\Task22\obj\Debug\net6.0\Task22.genruntimeconfig.cache
+C:\Users\Dima\Desktop\Учеба\ООП\Task22\Task22\obj\Debug\net6.0\ref\Task22.dll
